@@ -106,4 +106,4 @@ sd:/config/TegraBurn/logs/ram.txt
 
 - Lineon : Stress-NX / MembenchNX
 - CTCaer : Memtester GPU
-- [Anxietytimmy](https://github.com/Anxietytimmy) : Furmark-NX
+- [Anxietytimmy](https://github.com/Anxietytimmy) : [Furmark-NX](https://github.com/Anxietytimmy/Furmark-NX)
