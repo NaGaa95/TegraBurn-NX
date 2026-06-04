@@ -86,9 +86,7 @@ sd:/config/TegraBurn/config.ini
 When results logging is enabled, reports are written to:
 
 ```text
-sd:/config/TegraBurn/logs/bench.txt
-sd:/config/TegraBurn/logs/cpu_stress.txt
-sd:/config/TegraBurn/logs/ram.txt
+sdmc:/config/TegraBurn/results.txt
 ```
 ## Screenshots
 <p align="center">
