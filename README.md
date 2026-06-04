@@ -1,4 +1,3 @@
-# <h1 align="center">TegraBurn</h1>
 <p align="center">
   <img src="icon.jpg" width="180" alt="TegraBurn icon">
 </p>
