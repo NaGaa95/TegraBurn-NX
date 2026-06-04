@@ -20,7 +20,7 @@
 | RAM Stress Test | Memtester CPU, Memtester GPU, Furmark CPU RAM Stress, Furmark GPU RAM Texture |
 | Combined Mode | CPU + GPU Black Hole, RAM Combined Mode |
 
-### Stress-NX Dynamic Cycler
+### Stress-NX Cycler
 
 Stress-NX Cycler validates CPU stability across a configurable CPU
 frequency range using Stress-NX workloads
@@ -34,7 +34,7 @@ frequency range using Stress-NX workloads
 ### GPU Compute Cycler
 - GPU Compute Stress Test - deko3D
 - Duration : Time spent at each frequency step
-- Min/Max GPU Frequency : Lowest/Highest CPU frequency to test
+- Min/Max GPU Frequency : Lowest/Highest GPU frequency to test
 
 ### Combined RAM Stress
 
